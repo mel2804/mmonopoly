@@ -30,7 +30,7 @@ function Reiniciar(){
 	var i;
 	for (var i = 0; i<16; i++) {
 		localStorage.setItem("ganado",0);
-		location.replace("index.html");
+		location.replace("index.php");
 		document.getElementById(i).src="img/Boton.jpg"
 	}
 }

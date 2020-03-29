@@ -1,0 +1,8 @@
+div.tab canvas {
+    box-shadow: 0 0 30px #000;
+    margin-left: 10%;
+}
+div.cred{
+	font: 30px, verdana, sans-serif;
+	text-align: center;
+}
